@@ -66,7 +66,7 @@ function LandingPage() {
           <b className="text-8xl text-gray-700">NEWS</b>
         </h1>
         <p className="text-lg">
-        ABHIDAILY provides latest news from India and around the world.
+        ABHI NEWS provides latest news from India and around the world.
         Get breaking news alerts from India and follow today's live news updates in field of politics,
         business, technology, Bollywood, cricket and more.
         </p>
